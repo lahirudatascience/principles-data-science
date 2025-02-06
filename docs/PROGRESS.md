@@ -6,3 +6,4 @@
 - Repository created
 - Created `PROGRESS.md` for daily progress
 - Initial Report Document added
+- Created AWS Admin User Account
