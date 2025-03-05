@@ -16,3 +16,6 @@
 - Download and install the Azure CLI
 - Azure login
 - install the azure-storage-blob library
+
+## 03 Mar 2025:
+- Visualizing Alcohol Consumption Distribution
